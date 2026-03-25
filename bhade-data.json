@@ -6,7 +6,7 @@
       "rent": 3600,
       "deposit": 10000,
       "startDate": "2026-02-10",
-      "balance": 258
+      "balance": -162
     },
     {
       "name": "Kalu mama",
@@ -36,6 +36,25 @@
         "method": "upi",
         "note": "",
         "date": "२५/३/२०२६"
+      },
+      {
+        "id": 1774446826600,
+        "month": 2,
+        "year": 2026,
+        "prevUnit": 2026,
+        "currUnit": 2098,
+        "units": 72,
+        "rent": 3600,
+        "elec": 720,
+        "water": 100,
+        "prevBalance": 258,
+        "due": 4162,
+        "paid": 4000,
+        "diff": -162,
+        "method": "upi",
+        "note": "",
+        "date": "२५/३/२०२६",
+        "isOld": false
       }
     ],
     [
@@ -63,6 +82,6 @@
     "elecRate": 10,
     "water": 100
   },
-  "at": "2026-03-25T13:53:37.166Z",
+  "at": "2026-03-25T13:53:47.205Z",
   "v": 3
 }
