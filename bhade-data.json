@@ -1,11 +1,11 @@
 {
   "tenants": [
     {
-      "name": "Balu mama",
+      "name": "Dilshad ",
       "room": "खोली १",
-      "rent": 3500,
+      "rent": 3600,
       "deposit": 10000,
-      "startDate": "2026-03-01",
+      "startDate": "2026-02-10",
       "balance": 258
     },
     {
@@ -63,6 +63,6 @@
     "elecRate": 4,
     "water": 100
   },
-  "at": "2026-03-25T06:29:12.253Z",
+  "at": "2026-03-25T13:52:39.589Z",
   "v": 3
 }
